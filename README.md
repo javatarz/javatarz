@@ -8,9 +8,11 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Karun's GitHub stats](https://github-readme-stats.vercel.app/api?username=javatarz&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javatarz&hide=html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Karun's GitHub stats](https://github-readme-stats.vercel.app/api?username=javatarz&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📕 Latest Blog Posts
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javatarz&theme=dracula&hide=html,css&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
