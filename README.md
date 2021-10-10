@@ -21,6 +21,11 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#8449](https://github.com/apache/airflow/issues/8449) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#8449](https://github.com/apache/airflow/issues/8449) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#18824](https://github.com/apache/airflow/issues/18824) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#18815](https://github.com/apache/airflow/issues/18815) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#18824](https://github.com/apache/airflow/pull/18824) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 </details>
