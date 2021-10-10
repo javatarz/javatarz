@@ -6,12 +6,6 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 
 ---
 
-## &#x1f4c8; My GitHub Stats
-
-[![Karun's GitHub stats](https://github-readme-stats.vercel.app/api?username=javatarz&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javatarz&theme=dracula&hide=html,css&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -20,3 +14,21 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 - [Version controlled configuration and secrets management for Terraform](https://medium.com/inspiredbrilliance/version-controlled-configuration-and-secrets-management-for-terraform-c22f0b30d063?source=rss-2c5b1a49efe4------2)
 - [The Science in the Art of the Showcase (for distributed teams)](https://medium.com/inspiredbrilliance/the-science-in-the-art-of-the-showcase-for-distributed-teams-6497e331cb6c?source=rss-2c5b1a49efe4------2)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+    <summary>⚡ My GitHub Stats</summary>
+
+    [![Karun's GitHub stats](https://github-readme-stats.vercel.app/api?username=javatarz&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javatarz&theme=dracula&hide=html,css&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+</details>
