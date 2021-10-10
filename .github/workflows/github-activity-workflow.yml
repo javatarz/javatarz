@@ -1,4 +1,4 @@
-name: Recent GitHub Activity Workflow
+name: Recent GitHub activity Workflow
 
 on:
   schedule: # Run workflow automatically
