@@ -15,4 +15,8 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MLOps: Building a healthy data platform](https://medium.com/inspiredbrilliance/mlops-building-a-healthy-data-platform-d3d6547a601d?source=rss-2c5b1a49efe4------2)
+- [Data storage patterns, versioning and partitions](https://medium.com/inspiredbrilliance/data-storage-patterns-versioning-and-partitions-a8ce1fd82765?source=rss-2c5b1a49efe4------2)
+- [Version controlled configuration and secrets management for Terraform](https://medium.com/inspiredbrilliance/version-controlled-configuration-and-secrets-management-for-terraform-c22f0b30d063?source=rss-2c5b1a49efe4------2)
+- [The Science in the Art of the Showcase (for distributed teams)](https://medium.com/inspiredbrilliance/the-science-in-the-art-of-the-showcase-for-distributed-teams-6497e331cb6c?source=rss-2c5b1a49efe4------2)
 <!-- BLOG-POST-LIST:END -->
