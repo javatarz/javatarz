@@ -18,7 +18,7 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8449](https://github.com/apache/airflow/issues/8449) in [apache/airflow](https://github.com/apache/airflow)
@@ -33,7 +33,7 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 <details>
     <summary>⚡ My GitHub Stats</summary>
 
-    [![Karun's GitHub stats](https://github-readme-stats.vercel.app/api?username=javatarz&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="Karun's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=javatarz&theme=dracula&show_icons=true&count_private=true" />
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javatarz&theme=dracula&hide=html,css&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javatarz&theme=dracula&hide=html,css&show_owner=true" />
 </details>
