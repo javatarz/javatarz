@@ -16,11 +16,11 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17190](https://github.com/timburgan/timburgan/issues/17190) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. 🗣 Commented on [#8449](https://github.com/apache/airflow/issues/8449) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#8449](https://github.com/apache/airflow/issues/8449) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#18824](https://github.com/apache/airflow/issues/18824) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#18815](https://github.com/apache/airflow/issues/18815) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#206](https://github.com/MarkusAmshove/Kluent/issues/206) in [MarkusAmshove/Kluent](https://github.com/MarkusAmshove/Kluent)
+2. ❗️ Opened issue [#206](https://github.com/MarkusAmshove/Kluent/issues/206) in [MarkusAmshove/Kluent](https://github.com/MarkusAmshove/Kluent)
+3. 🗣 Commented on [#205](https://github.com/MarkusAmshove/Kluent/issues/205) in [MarkusAmshove/Kluent](https://github.com/MarkusAmshove/Kluent)
+4. 🗣 Commented on [#205](https://github.com/MarkusAmshove/Kluent/issues/205) in [MarkusAmshove/Kluent](https://github.com/MarkusAmshove/Kluent)
+5. ❗️ Opened issue [#17190](https://github.com/timburgan/timburgan/issues/17190) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity-->
 
 ## 🏆 My GitHub Stats
