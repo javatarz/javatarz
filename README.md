@@ -16,11 +16,11 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#206](https://github.com/MarkusAmshove/Kluent/issues/206) in [MarkusAmshove/Kluent](https://github.com/MarkusAmshove/Kluent)
-2. ❗️ Opened issue [#206](https://github.com/MarkusAmshove/Kluent/issues/206) in [MarkusAmshove/Kluent](https://github.com/MarkusAmshove/Kluent)
-3. 🗣 Commented on [#205](https://github.com/MarkusAmshove/Kluent/issues/205) in [MarkusAmshove/Kluent](https://github.com/MarkusAmshove/Kluent)
+1. 💪 Opened PR [#207](https://github.com/MarkusAmshove/Kluent/pull/207) in [MarkusAmshove/Kluent](https://github.com/MarkusAmshove/Kluent)
+2. 🗣 Commented on [#206](https://github.com/MarkusAmshove/Kluent/issues/206) in [MarkusAmshove/Kluent](https://github.com/MarkusAmshove/Kluent)
+3. ❗️ Opened issue [#206](https://github.com/MarkusAmshove/Kluent/issues/206) in [MarkusAmshove/Kluent](https://github.com/MarkusAmshove/Kluent)
 4. 🗣 Commented on [#205](https://github.com/MarkusAmshove/Kluent/issues/205) in [MarkusAmshove/Kluent](https://github.com/MarkusAmshove/Kluent)
-5. ❗️ Opened issue [#17190](https://github.com/timburgan/timburgan/issues/17190) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+5. 🗣 Commented on [#205](https://github.com/MarkusAmshove/Kluent/issues/205) in [MarkusAmshove/Kluent](https://github.com/MarkusAmshove/Kluent)
 <!--END_SECTION:activity-->
 
 ## 🏆 My GitHub Stats
