@@ -16,11 +16,11 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#263](https://github.com/feedback-assistant/reports/issues/263) in [feedback-assistant/reports](https://github.com/feedback-assistant/reports)
-2. 🎉 Merged PR [#24](https://github.com/javatarz/karun.me/pull/24) in [javatarz/karun.me](https://github.com/javatarz/karun.me)
-3. ❗️ Closed issue [#1707](https://github.com/authelia/authelia/issues/1707) in [authelia/authelia](https://github.com/authelia/authelia)
-4. 🗣 Commented on [#1707](https://github.com/authelia/authelia/issues/1707) in [authelia/authelia](https://github.com/authelia/authelia)
-5. 🗣 Commented on [#206](https://github.com/MarkusAmshove/Kluent/issues/206) in [MarkusAmshove/Kluent](https://github.com/MarkusAmshove/Kluent)
+1. 🗣 Commented on [#1565](https://github.com/python-gitlab/python-gitlab/issues/1565) in [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab)
+2. ❗️ Opened issue [#263](https://github.com/feedback-assistant/reports/issues/263) in [feedback-assistant/reports](https://github.com/feedback-assistant/reports)
+3. 🎉 Merged PR [#24](https://github.com/javatarz/karun.me/pull/24) in [javatarz/karun.me](https://github.com/javatarz/karun.me)
+4. ❗️ Closed issue [#1707](https://github.com/authelia/authelia/issues/1707) in [authelia/authelia](https://github.com/authelia/authelia)
+5. 🗣 Commented on [#1707](https://github.com/authelia/authelia/issues/1707) in [authelia/authelia](https://github.com/authelia/authelia)
 <!--END_SECTION:activity-->
 
 ## 🏆 My GitHub Stats
