@@ -16,9 +16,9 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1707](https://github.com/authelia/authelia/issues/1707) in [authelia/authelia](https://github.com/authelia/authelia)
-2. 🗣 Commented on [#1707](https://github.com/authelia/authelia/issues/1707) in [authelia/authelia](https://github.com/authelia/authelia)
-3. 🗣 Commented on [#206](https://github.com/MarkusAmshove/Kluent/issues/206) in [MarkusAmshove/Kluent](https://github.com/MarkusAmshove/Kluent)
+1. 🎉 Merged PR [#24](https://github.com/javatarz/karun.me/pull/24) in [javatarz/karun.me](https://github.com/javatarz/karun.me)
+2. ❗️ Closed issue [#1707](https://github.com/authelia/authelia/issues/1707) in [authelia/authelia](https://github.com/authelia/authelia)
+3. 🗣 Commented on [#1707](https://github.com/authelia/authelia/issues/1707) in [authelia/authelia](https://github.com/authelia/authelia)
 4. 🗣 Commented on [#206](https://github.com/MarkusAmshove/Kluent/issues/206) in [MarkusAmshove/Kluent](https://github.com/MarkusAmshove/Kluent)
 5. 🗣 Commented on [#206](https://github.com/MarkusAmshove/Kluent/issues/206) in [MarkusAmshove/Kluent](https://github.com/MarkusAmshove/Kluent)
 <!--END_SECTION:activity-->
