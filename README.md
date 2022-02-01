@@ -16,11 +16,11 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1565](https://github.com/python-gitlab/python-gitlab/issues/1565) in [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab)
-2. ❗️ Opened issue [#263](https://github.com/feedback-assistant/reports/issues/263) in [feedback-assistant/reports](https://github.com/feedback-assistant/reports)
-3. 🎉 Merged PR [#24](https://github.com/javatarz/karun.me/pull/24) in [javatarz/karun.me](https://github.com/javatarz/karun.me)
-4. ❗️ Closed issue [#1707](https://github.com/authelia/authelia/issues/1707) in [authelia/authelia](https://github.com/authelia/authelia)
-5. 🗣 Commented on [#1707](https://github.com/authelia/authelia/issues/1707) in [authelia/authelia](https://github.com/authelia/authelia)
+1. 🎉 Merged PR [#6](https://github.com/zoltar-ai/bad-loan-model/pull/6) in [zoltar-ai/bad-loan-model](https://github.com/zoltar-ai/bad-loan-model)
+2. 🎉 Merged PR [#5](https://github.com/javatarz/h2o-ml-sandbox/pull/5) in [javatarz/h2o-ml-sandbox](https://github.com/javatarz/h2o-ml-sandbox)
+3. 🎉 Merged PR [#8](https://github.com/javatarz/roacm/pull/8) in [javatarz/roacm](https://github.com/javatarz/roacm)
+4. 🎉 Merged PR [#26](https://github.com/javatarz/karun.me/pull/26) in [javatarz/karun.me](https://github.com/javatarz/karun.me)
+5. 🎉 Merged PR [#27](https://github.com/javatarz/karun.me/pull/27) in [javatarz/karun.me](https://github.com/javatarz/karun.me)
 <!--END_SECTION:activity-->
 
 ## Recent contributions
