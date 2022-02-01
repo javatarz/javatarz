@@ -45,5 +45,5 @@ jobs:
           plugin_lines: yes
           plugin_notable: yes
           plugin_notable_from: organization
-          plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
