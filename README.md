@@ -2,6 +2,8 @@
 
 I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling software, testing, CD & ML. ❤️&nbsp; trying to spread good vibes on the interwebs.
 
+![Metrics](/github-metrics.svg)
+
 ---
 
 ## 📕 Recent Blog Posts
@@ -22,10 +24,6 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 4. 🎉 Merged PR [#26](https://github.com/javatarz/karun.me/pull/26) in [javatarz/karun.me](https://github.com/javatarz/karun.me)
 5. 🎉 Merged PR [#27](https://github.com/javatarz/karun.me/pull/27) in [javatarz/karun.me](https://github.com/javatarz/karun.me)
 <!--END_SECTION:activity-->
-
-## Recent contributions
-<!--START_SECTION:contributions-->
-<!--END_SECTION:contributions-->
 
 ## 🏆 My GitHub Stats
 
