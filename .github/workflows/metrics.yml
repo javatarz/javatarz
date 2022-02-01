@@ -15,7 +15,6 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
-          #  - repo
           # The following additional scopes may be required:
           #  - read:org  (for organization related metrics)
           #  - read:user (for user related data)
@@ -48,4 +47,3 @@ jobs:
           plugin_notable_from: organization
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
-          plugin_traffic: yes
