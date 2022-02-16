@@ -18,11 +18,11 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/kuona/kuona/pull/58) in [kuona/kuona](https://github.com/kuona/kuona)
-2. 🎉 Merged PR [#57](https://github.com/kuona/kuona/pull/57) in [kuona/kuona](https://github.com/kuona/kuona)
-3. 🎉 Merged PR [#6](https://github.com/zoltar-ai/bad-loan-model/pull/6) in [zoltar-ai/bad-loan-model](https://github.com/zoltar-ai/bad-loan-model)
-4. 🎉 Merged PR [#5](https://github.com/javatarz/h2o-ml-sandbox/pull/5) in [javatarz/h2o-ml-sandbox](https://github.com/javatarz/h2o-ml-sandbox)
-5. 🎉 Merged PR [#8](https://github.com/javatarz/roacm/pull/8) in [javatarz/roacm](https://github.com/javatarz/roacm)
+1. 🎉 Merged PR [#30](https://github.com/javatarz/karun.me/pull/30) in [javatarz/karun.me](https://github.com/javatarz/karun.me)
+2. 🎉 Merged PR [#29](https://github.com/javatarz/karun.me/pull/29) in [javatarz/karun.me](https://github.com/javatarz/karun.me)
+3. 🎉 Merged PR [#58](https://github.com/kuona/kuona/pull/58) in [kuona/kuona](https://github.com/kuona/kuona)
+4. 🎉 Merged PR [#57](https://github.com/kuona/kuona/pull/57) in [kuona/kuona](https://github.com/kuona/kuona)
+5. 🎉 Merged PR [#6](https://github.com/zoltar-ai/bad-loan-model/pull/6) in [zoltar-ai/bad-loan-model](https://github.com/zoltar-ai/bad-loan-model)
 <!--END_SECTION:activity-->
 
 ## 🏆 My GitHub Stats
