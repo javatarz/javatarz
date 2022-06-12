@@ -33,6 +33,8 @@ jobs:
           plugin_languages: yes
           plugin_languages_analysis_timeout: 35
           plugin_languages_colors: github
+          plugin_languages_threshold: 0%
+          plugin_languages_sections: most-used
           plugin_lines: yes
           plugin_notable: yes
           plugin_notable_from: organization
