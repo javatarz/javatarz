@@ -18,14 +18,14 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit)
-2. 🎉 Merged PR [#35](https://github.com/javatarz/karun.me/pull/35) in [javatarz/karun.me](https://github.com/javatarz/karun.me)
-3. 🎉 Merged PR [#13](https://github.com/javatarz/roacm/pull/13) in [javatarz/roacm](https://github.com/javatarz/roacm)
-4. 🎉 Merged PR [#60](https://github.com/kuona/kuona/pull/60) in [kuona/kuona](https://github.com/kuona/kuona)
-5. 🎉 Merged PR [#61](https://github.com/kuona/kuona/pull/61) in [kuona/kuona](https://github.com/kuona/kuona)
+1. ⭐ Starred [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap)
+2. ⭐ Starred [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit)
+3. 🎉 Merged PR [#35](https://github.com/javatarz/karun.me/pull/35) in [javatarz/karun.me](https://github.com/javatarz/karun.me)
+4. 🎉 Merged PR [#13](https://github.com/javatarz/roacm/pull/13) in [javatarz/roacm](https://github.com/javatarz/roacm)
+5. 🎉 Merged PR [#60](https://github.com/kuona/kuona/pull/60) in [kuona/kuona](https://github.com/kuona/kuona)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 12th, 2022, 23:32:28 GMT+0530
+Last Updated: Monday, June 13th, 2022, 00:32:21 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
