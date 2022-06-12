@@ -17,13 +17,8 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 
 ## 🎯 Recent GitHub Activity
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/javatarz/karun.me/pull/34) in [javatarz/karun.me](https://github.com/javatarz/karun.me)
-2. 🎉 Merged PR [#11](https://github.com/javatarz/roacm/pull/11) in [javatarz/roacm](https://github.com/javatarz/roacm)
-3. 🎉 Merged PR [#33](https://github.com/javatarz/karun.me/pull/33) in [javatarz/karun.me](https://github.com/javatarz/karun.me)
-4. 🎉 Merged PR [#10](https://github.com/javatarz/roacm/pull/10) in [javatarz/roacm](https://github.com/javatarz/roacm)
-5. 🎉 Merged PR [#32](https://github.com/javatarz/karun.me/pull/32) in [javatarz/karun.me](https://github.com/javatarz/karun.me)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ## 🏆 My GitHub Stats
 
