@@ -1,6 +1,6 @@
 settings:
   date:
-    timezone: "GMT+05:30"
-    format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
+    timezone: "Asia/Kolkata"
+    format: "dddd, mmmm dS, yyyy, HH:MM:ss Z"
   disabled_events:
     - "push"
