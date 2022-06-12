@@ -18,14 +18,14 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [javatarz/javatarz](https://github.com/javatarz/javatarz)
-2. ⬆️ Pushed 1 commit(s) to [javatarz/javatarz](https://github.com/javatarz/javatarz)
-3. ⬆️ Pushed 1 commit(s) to [javatarz/javatarz](https://github.com/javatarz/javatarz)
-4. ⭐ Starred [optics-dev/Monocle](https://github.com/optics-dev/Monocle)
-5. ⬆️ Pushed 1 commit(s) to [javatarz/mac-setup](https://github.com/javatarz/mac-setup)
+1. 🎉 Merged PR [#35](https://github.com/javatarz/karun.me/pull/35) in [javatarz/karun.me](https://github.com/javatarz/karun.me)
+2. 🎉 Merged PR [#13](https://github.com/javatarz/roacm/pull/13) in [javatarz/roacm](https://github.com/javatarz/roacm)
+3. 🎉 Merged PR [#60](https://github.com/kuona/kuona/pull/60) in [kuona/kuona](https://github.com/kuona/kuona)
+4. 🎉 Merged PR [#61](https://github.com/kuona/kuona/pull/61) in [kuona/kuona](https://github.com/kuona/kuona)
+5. 🎉 Merged PR [#62](https://github.com/kuona/kuona/pull/62) in [kuona/kuona](https://github.com/kuona/kuona)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 12th, 2022, 5:39:37 AM
+Last Updated: Sunday, June 12th, 2022, 11:19:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
