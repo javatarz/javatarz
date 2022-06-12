@@ -1,0 +1,6 @@
+settings:
+  date:
+    timezone: "GMT+05:30"
+    format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
+  disabled_events:
+    - "push"
