@@ -18,9 +18,12 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [sharkdp/bat](https://github.com/sharkdp/bat)
+2. ⭐ Starred [sachaos/viddy](https://github.com/sachaos/viddy)
+3. ⭐ Starred [facebook/docusaurus](https://github.com/facebook/docusaurus)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 30th, 2022, 10:58:59 GMT+0530
+Last Updated: Friday, September 30th, 2022, 11:54:41 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
