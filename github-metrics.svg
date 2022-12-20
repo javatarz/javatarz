@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    532k added, 85.1k removed
+                                    527k added, 82.9k removed
                                 </div>
                             </section>
                             <section>
@@ -305,9 +305,25 @@
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                         </svg>
                     </div>
-                    <div class="organization contribution  ">
+                    <div class="organization contribution s ">
                         <img class="organization avatar" src="data:image/png;base64,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" width="16" height="16" />
                         <span class="name">@kuona/kuona</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
+                            <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="3.0747663551401865 329"/>
+                            <text x="15" y="15" dominant-baseline="central">5</text>
+                        </svg>
+                        <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                        </svg>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
+                            <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="329 329"/>
+                            <text x="15" y="15" dominant-baseline="central">3</text>
+                        </svg>
+                        <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                        </svg>
                     </div>
                 </div>
             </section>
@@ -2468,7 +2484,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="20.925 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="21.700000000000003 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2493,9 +2509,9 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 239k out of 104m users</span>
+                                    <span class="gh">ranked 233k out of 104m users</span>
                                 </div>
-                                <div class="text">Published 77 public repositories</div>
+                                <div class="text">Published 78 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3116,7 +3132,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Dec 2022, 18:36:50 (timezone Asia/Kolkata) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 20 Dec 2022, 19:33:23 (timezone Asia/Kolkata) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
