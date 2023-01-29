@@ -18,11 +18,9 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1](https://github.com/Ahmedazim7804/traktstats/pull/1#issuecomment-1294699013) in [Ahmedazim7804/traktstats](https://github.com/Ahmedazim7804/traktstats)
-2. 💪 Opened PR [#1](https://github.com/Ahmedazim7804/traktstats/pull/1) in [Ahmedazim7804/traktstats](https://github.com/Ahmedazim7804/traktstats)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 29th, 2023, 07:00:22 GMT+0530
+Last Updated: Sunday, January 29th, 2023, 07:56:25 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
