@@ -18,11 +18,12 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#8449](https://github.com/apache/airflow/issues/8449#issuecomment-1448600167) in [apache/airflow](https://github.com/apache/airflow)
-2. 🔱 Forked [javatarz/expensereport](https://github.com/javatarz/expensereport) from [christianhujer/expensereport](https://github.com/christianhujer/expensereport)
+1. 🎉 Merged PR [#1](https://github.com/javatarz/mac-setup/pull/1) in [javatarz/mac-setup](https://github.com/javatarz/mac-setup)
+2. 💬 Commented on [#8449](https://github.com/apache/airflow/issues/8449#issuecomment-1448600167) in [apache/airflow](https://github.com/apache/airflow)
+3. 🔱 Forked [javatarz/expensereport](https://github.com/javatarz/expensereport) from [christianhujer/expensereport](https://github.com/christianhujer/expensereport)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 8th, 2023, 16:32:41 GMT+0530
+Last Updated: Monday, May 8th, 2023, 17:33:09 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
