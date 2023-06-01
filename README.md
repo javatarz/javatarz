@@ -18,11 +18,12 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [javatarz/safe-refactoring-demo](https://github.com/javatarz/safe-refactoring-demo)
-2. 🎉 Merged PR [#1](https://github.com/javatarz/mac-setup/pull/1) in [javatarz/mac-setup](https://github.com/javatarz/mac-setup)
+1. ⭐ Starred [spoptchev/scientist](https://github.com/spoptchev/scientist)
+2. 📔 Created new repository [javatarz/safe-refactoring-demo](https://github.com/javatarz/safe-refactoring-demo)
+3. 🎉 Merged PR [#1](https://github.com/javatarz/mac-setup/pull/1) in [javatarz/mac-setup](https://github.com/javatarz/mac-setup)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 1st, 2023, 08:07:01 GMT+0530
+Last Updated: Thursday, June 1st, 2023, 08:46:46 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
