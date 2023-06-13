@@ -18,13 +18,14 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [javatarz/tech-conversations-bot](https://github.com/javatarz/tech-conversations-bot)
-2. ⭐ Starred [spoptchev/scientist](https://github.com/spoptchev/scientist)
-3. 📔 Created new repository [javatarz/safe-refactoring-demo](https://github.com/javatarz/safe-refactoring-demo)
-4. 🎉 Merged PR [#1](https://github.com/javatarz/mac-setup/pull/1) in [javatarz/mac-setup](https://github.com/javatarz/mac-setup)
+1. 💬 Commented on [#31875](https://github.com/apache/airflow/issues/31875#issuecomment-1589309999) in [apache/airflow](https://github.com/apache/airflow)
+2. ❗️ Opened issue [#31875](https://github.com/apache/airflow/issues/31875) in [apache/airflow](https://github.com/apache/airflow)
+3. 📔 Created new repository [javatarz/tech-conversations-bot](https://github.com/javatarz/tech-conversations-bot)
+4. ⭐ Starred [spoptchev/scientist](https://github.com/spoptchev/scientist)
+5. 📔 Created new repository [javatarz/safe-refactoring-demo](https://github.com/javatarz/safe-refactoring-demo)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 13th, 2023, 19:32:28 GMT+0530
+Last Updated: Tuesday, June 13th, 2023, 20:32:37 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
