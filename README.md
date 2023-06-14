@@ -18,14 +18,14 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#31875](https://github.com/apache/airflow/issues/31875#issuecomment-1589309999) in [apache/airflow](https://github.com/apache/airflow)
-2. ❗️ Opened issue [#31875](https://github.com/apache/airflow/issues/31875) in [apache/airflow](https://github.com/apache/airflow)
-3. 📔 Created new repository [javatarz/tech-conversations-bot](https://github.com/javatarz/tech-conversations-bot)
-4. ⭐ Starred [spoptchev/scientist](https://github.com/spoptchev/scientist)
-5. 📔 Created new repository [javatarz/safe-refactoring-demo](https://github.com/javatarz/safe-refactoring-demo)
+1. 💬 Commented on [#31875](https://github.com/apache/airflow/issues/31875#issuecomment-1590306133) in [apache/airflow](https://github.com/apache/airflow)
+2. 💬 Commented on [#31875](https://github.com/apache/airflow/issues/31875#issuecomment-1590298835) in [apache/airflow](https://github.com/apache/airflow)
+3. 💬 Commented on [#31875](https://github.com/apache/airflow/issues/31875#issuecomment-1589309999) in [apache/airflow](https://github.com/apache/airflow)
+4. ❗️ Opened issue [#31875](https://github.com/apache/airflow/issues/31875) in [apache/airflow](https://github.com/apache/airflow)
+5. 📔 Created new repository [javatarz/tech-conversations-bot](https://github.com/javatarz/tech-conversations-bot)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 14th, 2023, 09:32:45 GMT+0530
+Last Updated: Wednesday, June 14th, 2023, 10:32:49 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
