@@ -18,14 +18,14 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#31875](https://github.com/apache/airflow/issues/31875#issuecomment-1590306133) in [apache/airflow](https://github.com/apache/airflow)
-2. 💬 Commented on [#31875](https://github.com/apache/airflow/issues/31875#issuecomment-1590298835) in [apache/airflow](https://github.com/apache/airflow)
-3. 💬 Commented on [#31875](https://github.com/apache/airflow/issues/31875#issuecomment-1589309999) in [apache/airflow](https://github.com/apache/airflow)
-4. ❗️ Opened issue [#31875](https://github.com/apache/airflow/issues/31875) in [apache/airflow](https://github.com/apache/airflow)
-5. 📔 Created new repository [javatarz/tech-conversations-bot](https://github.com/javatarz/tech-conversations-bot)
+1. ⭐ Starred [qurbat/blocked-hosts](https://github.com/qurbat/blocked-hosts)
+2. 💬 Commented on [#31875](https://github.com/apache/airflow/issues/31875#issuecomment-1590306133) in [apache/airflow](https://github.com/apache/airflow)
+3. 💬 Commented on [#31875](https://github.com/apache/airflow/issues/31875#issuecomment-1590298835) in [apache/airflow](https://github.com/apache/airflow)
+4. 💬 Commented on [#31875](https://github.com/apache/airflow/issues/31875#issuecomment-1589309999) in [apache/airflow](https://github.com/apache/airflow)
+5. ❗️ Opened issue [#31875](https://github.com/apache/airflow/issues/31875) in [apache/airflow](https://github.com/apache/airflow)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 27th, 2023, 02:32:19 GMT+0530
+Last Updated: Tuesday, June 27th, 2023, 03:32:49 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
