@@ -30,8 +30,7 @@ Last Updated: Thursday, July 13th, 2023, 09:32:48 GMT+0530
 
 ## 🏆 My GitHub Stats
 
-![Karun's GitHub stats](https://github-readme-stats.vercel.app/api?username=javatarz&theme=dracula&show_icons=true&count_private=true) &nbsp;  &nbsp;  &nbsp; 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javatarz&theme=dracula&hide=html,css&show_owner=true)
+![Karun's GitHub stats](https://github-readme-stats.vercel.app/api?username=javatarz&theme=dracula&show_icons=true&count_private=true)
 
 ## 👨 👩. Social
 
