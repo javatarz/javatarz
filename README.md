@@ -18,14 +18,14 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nushell/nushell](https://github.com/nushell/nushell)
-2. ⭐ Starred [ellie/atuin](https://github.com/ellie/atuin)
-3. ⭐ Starred [imsnif/diskonaut](https://github.com/imsnif/diskonaut)
-4. ⭐ Starred [cantino/mcfly](https://github.com/cantino/mcfly)
-5. ⭐ Starred [Alonely0/Voila](https://github.com/Alonely0/Voila)
+1. ⭐ Starred [eitrheim/Resume-Screening-and-Selection](https://github.com/eitrheim/Resume-Screening-and-Selection)
+2. ⭐ Starred [nushell/nushell](https://github.com/nushell/nushell)
+3. ⭐ Starred [ellie/atuin](https://github.com/ellie/atuin)
+4. ⭐ Starred [imsnif/diskonaut](https://github.com/imsnif/diskonaut)
+5. ⭐ Starred [cantino/mcfly](https://github.com/cantino/mcfly)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 14th, 2023, 23:32:37 GMT+0530
+Last Updated: Saturday, July 15th, 2023, 00:32:31 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
