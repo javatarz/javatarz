@@ -18,14 +18,14 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [javatarz/public-notes-on-vercel](https://github.com/javatarz/public-notes-on-vercel)
-2. ⭐ Starred [eitrheim/Resume-Screening-and-Selection](https://github.com/eitrheim/Resume-Screening-and-Selection)
-3. ⭐ Starred [nushell/nushell](https://github.com/nushell/nushell)
-4. ⭐ Starred [ellie/atuin](https://github.com/ellie/atuin)
-5. ⭐ Starred [imsnif/diskonaut](https://github.com/imsnif/diskonaut)
+1. 📔 Created new repository [javatarz/javatarz.github.io](https://github.com/javatarz/javatarz.github.io)
+2. 📔 Created new repository [javatarz/public-notes-on-vercel](https://github.com/javatarz/public-notes-on-vercel)
+3. ⭐ Starred [eitrheim/Resume-Screening-and-Selection](https://github.com/eitrheim/Resume-Screening-and-Selection)
+4. ⭐ Starred [nushell/nushell](https://github.com/nushell/nushell)
+5. ⭐ Starred [ellie/atuin](https://github.com/ellie/atuin)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 1st, 2023, 06:55:32 GMT+0530
+Last Updated: Friday, September 1st, 2023, 07:40:32 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
