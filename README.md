@@ -21,11 +21,9 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 1. 📔 Created new repository [javatarz/javatarz.github.io](https://github.com/javatarz/javatarz.github.io)
 2. 📔 Created new repository [javatarz/public-notes-on-vercel](https://github.com/javatarz/public-notes-on-vercel)
 3. ⭐ Starred [eitrheim/Resume-Screening-and-Selection](https://github.com/eitrheim/Resume-Screening-and-Selection)
-4. ⭐ Starred [nushell/nushell](https://github.com/nushell/nushell)
-5. ⭐ Starred [ellie/atuin](https://github.com/ellie/atuin)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 6th, 2023, 06:53:50 GMT+0530
+Last Updated: Friday, October 6th, 2023, 07:39:06 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
