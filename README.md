@@ -19,10 +19,9 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [javatarz/javatarz.github.io](https://github.com/javatarz/javatarz.github.io)
-2. 📔 Created new repository [javatarz/public-notes-on-vercel](https://github.com/javatarz/public-notes-on-vercel)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 25th, 2023, 07:38:34 GMT+0530
+Last Updated: Wednesday, October 25th, 2023, 08:32:34 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
