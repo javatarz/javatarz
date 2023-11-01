@@ -18,10 +18,11 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [javatarz/javatarz.github.io](https://github.com/javatarz/javatarz.github.io)
+1. 📔 Created new repository [javatarz/data-viz-with-gpt](https://github.com/javatarz/data-viz-with-gpt)
+2. 📔 Created new repository [javatarz/javatarz.github.io](https://github.com/javatarz/javatarz.github.io)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 1st, 2023, 18:33:13 GMT+0530
+Last Updated: Wednesday, November 1st, 2023, 19:32:26 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
