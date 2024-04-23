@@ -18,10 +18,9 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 23rd, 2024, 09:32:50 GMT+0530
+Last Updated: Tuesday, April 23rd, 2024, 10:32:39 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
