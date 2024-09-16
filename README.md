@@ -18,9 +18,10 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [mendableai/firecrawl](https://github.com/mendableai/firecrawl)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 17th, 2024, 01:32:43 GMT+0530
+Last Updated: Tuesday, September 17th, 2024, 02:32:29 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
