@@ -18,14 +18,14 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#19](https://github.com/javatarz/roacm/pull/19) in [javatarz/roacm](https://github.com/javatarz/roacm)
-2. 🎉 Merged PR [#20](https://github.com/javatarz/roacm/pull/20) in [javatarz/roacm](https://github.com/javatarz/roacm)
-3. 👍 Approved [#20](https://github.com/javatarz/roacm/pull/20#pullrequestreview-2425663641) in [javatarz/roacm](https://github.com/javatarz/roacm)
-4. 🎉 Merged PR [#15](https://github.com/javatarz/roacm/pull/15) in [javatarz/roacm](https://github.com/javatarz/roacm)
-5. ⭐ Starred [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
+1. 🎉 Merged PR [#16](https://github.com/javatarz/roacm/pull/16) in [javatarz/roacm](https://github.com/javatarz/roacm)
+2. 💬 Commented on [#18](https://github.com/javatarz/roacm/pull/18#issuecomment-2466616032) in [javatarz/roacm](https://github.com/javatarz/roacm)
+3. ❌ Closed PR [#18](https://github.com/javatarz/roacm/pull/18) in [javatarz/roacm](https://github.com/javatarz/roacm)
+4. 👍 Approved [#18](https://github.com/javatarz/roacm/pull/18#pullrequestreview-2425664407) in [javatarz/roacm](https://github.com/javatarz/roacm)
+5. 🎉 Merged PR [#19](https://github.com/javatarz/roacm/pull/19) in [javatarz/roacm](https://github.com/javatarz/roacm)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 10th, 2024, 12:32:45 GMT+0530
+Last Updated: Sunday, November 10th, 2024, 13:33:14 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
