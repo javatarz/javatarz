@@ -20,13 +20,9 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 
 <!--RECENT_ACTIVITY:start-->
 1. 🎉 Merged PR [#21](https://github.com/javatarz/roacm/pull/21) in [javatarz/roacm](https://github.com/javatarz/roacm)
-2. 📔 Created new repository [javatarz/optimisation-problems](https://github.com/javatarz/optimisation-problems)
-3. 💪 Opened PR [#335](https://github.com/leap-ec/LEAP/pull/335) in [leap-ec/LEAP](https://github.com/leap-ec/LEAP)
-4. 🔱 Forked [javatarz/LEAP](https://github.com/javatarz/LEAP) from [leap-ec/LEAP](https://github.com/leap-ec/LEAP)
-5. ⭐ Starred [leap-ec/LEAP](https://github.com/leap-ec/LEAP)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 24th, 2025, 15:33:23 GMT+0530
+Last Updated: Monday, March 24th, 2025, 16:32:55 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
