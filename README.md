@@ -2,8 +2,6 @@
 
 I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling software, testing, CD & ML. ❤️&nbsp; trying to spread good vibes on the interwebs.
 
-![Stats](https://stats.quine.sh/javatarz/github?theme=dark)
-
 ---
 
 ## 📕 Recent Blog Posts
