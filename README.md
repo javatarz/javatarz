@@ -17,11 +17,12 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#335](https://github.com/leap-ec/LEAP/pull/335#issuecomment-2760208149) in [leap-ec/LEAP](https://github.com/leap-ec/LEAP)
-2. ⭐ Starred [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+1. ⭐ Starred [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis)
+2. 💬 Commented on [#335](https://github.com/leap-ec/LEAP/pull/335#issuecomment-2760208149) in [leap-ec/LEAP](https://github.com/leap-ec/LEAP)
+3. ⭐ Starred [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 1st, 2025, 02:32:55 GMT+0530
+Last Updated: Tuesday, April 1st, 2025, 03:33:00 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
