@@ -17,10 +17,9 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 30th, 2025, 22:32:45 GMT+0530
+Last Updated: Wednesday, April 30th, 2025, 23:33:53 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
