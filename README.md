@@ -17,12 +17,13 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cmardiros/claude-code-power-pack](https://github.com/cmardiros/claude-code-power-pack)
-2. ✔️ Closed issue [#3927](https://github.com/Puliczek/github-achievements-academy/issues/3927) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
-3. ❗️ Opened issue [#3927](https://github.com/Puliczek/github-achievements-academy/issues/3927) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+1. ⭐ Starred [sst/opencode](https://github.com/sst/opencode)
+2. ⭐ Starred [cmardiros/claude-code-power-pack](https://github.com/cmardiros/claude-code-power-pack)
+3. ✔️ Closed issue [#3927](https://github.com/Puliczek/github-achievements-academy/issues/3927) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+4. ❗️ Opened issue [#3927](https://github.com/Puliczek/github-achievements-academy/issues/3927) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 27th, 2025, 07:01:06 GMT+0530
+Last Updated: Friday, June 27th, 2025, 08:04:26 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
