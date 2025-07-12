@@ -17,14 +17,14 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ruvnet/ruvnet](https://github.com/ruvnet/ruvnet)
-2. ⭐ Starred [sst/opencode](https://github.com/sst/opencode)
-3. ⭐ Starred [cmardiros/claude-code-power-pack](https://github.com/cmardiros/claude-code-power-pack)
-4. ✔️ Closed issue [#3927](https://github.com/Puliczek/github-achievements-academy/issues/3927) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
-5. ❗️ Opened issue [#3927](https://github.com/Puliczek/github-achievements-academy/issues/3927) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+1. ⭐ Starred [MrMarble/deco](https://github.com/MrMarble/deco)
+2. ⭐ Starred [ruvnet/ruvnet](https://github.com/ruvnet/ruvnet)
+3. ⭐ Starred [sst/opencode](https://github.com/sst/opencode)
+4. ⭐ Starred [cmardiros/claude-code-power-pack](https://github.com/cmardiros/claude-code-power-pack)
+5. ✔️ Closed issue [#3927](https://github.com/Puliczek/github-achievements-academy/issues/3927) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 12th, 2025, 12:33:45 GMT+0530
+Last Updated: Saturday, July 12th, 2025, 13:33:39 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
