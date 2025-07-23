@@ -20,10 +20,9 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 1. ⭐ Starred [MrMarble/deco](https://github.com/MrMarble/deco)
 2. ⭐ Starred [ruvnet/ruvnet](https://github.com/ruvnet/ruvnet)
 3. ⭐ Starred [sst/opencode](https://github.com/sst/opencode)
-4. ⭐ Starred [cmardiros/claude-code-power-pack](https://github.com/cmardiros/claude-code-power-pack)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 23rd, 2025, 05:44:54 GMT+0530
+Last Updated: Wednesday, July 23rd, 2025, 07:01:30 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
