@@ -17,11 +17,12 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MrMarble/deco](https://github.com/MrMarble/deco)
-2. ⭐ Starred [ruvnet/ruvnet](https://github.com/ruvnet/ruvnet)
+1. ⭐ Starred [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering)
+2. ⭐ Starred [MrMarble/deco](https://github.com/MrMarble/deco)
+3. ⭐ Starred [ruvnet/ruvnet](https://github.com/ruvnet/ruvnet)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 3rd, 2025, 23:33:54 GMT+0530
+Last Updated: Monday, August 4th, 2025, 00:33:20 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
