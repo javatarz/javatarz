@@ -21,10 +21,9 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 2. ⭐ Starred [oraios/serena](https://github.com/oraios/serena)
 3. ⭐ Starred [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering)
 4. ⭐ Starred [MrMarble/deco](https://github.com/MrMarble/deco)
-5. ⭐ Starred [ruvnet/ruvnet](https://github.com/ruvnet/ruvnet)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 9th, 2025, 10:33:43 GMT+0530
+Last Updated: Saturday, August 9th, 2025, 11:34:22 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
