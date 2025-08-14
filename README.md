@@ -17,12 +17,13 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
-2. ⭐ Starred [oraios/serena](https://github.com/oraios/serena)
-3. ⭐ Starred [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering)
+1. ⭐ Starred [MCP-Manager/MCP-Checklists](https://github.com/MCP-Manager/MCP-Checklists)
+2. ⭐ Starred [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
+3. ⭐ Starred [oraios/serena](https://github.com/oraios/serena)
+4. ⭐ Starred [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 14th, 2025, 18:43:58 GMT+0530
+Last Updated: Thursday, August 14th, 2025, 19:33:11 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
