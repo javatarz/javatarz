@@ -17,13 +17,14 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MCP-Manager/MCP-Checklists](https://github.com/MCP-Manager/MCP-Checklists)
-2. ⭐ Starred [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
-3. ⭐ Starred [oraios/serena](https://github.com/oraios/serena)
-4. ⭐ Starred [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering)
+1. 🔱 Forked [javatarz/alfred-airpods-connector](https://github.com/javatarz/alfred-airpods-connector) from [April-June-August/alfred-airpods-connector](https://github.com/April-June-August/alfred-airpods-connector)
+2. ⭐ Starred [MCP-Manager/MCP-Checklists](https://github.com/MCP-Manager/MCP-Checklists)
+3. ⭐ Starred [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
+4. ⭐ Starred [oraios/serena](https://github.com/oraios/serena)
+5. ⭐ Starred [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 15th, 2025, 01:33:15 GMT+0530
+Last Updated: Friday, August 15th, 2025, 02:33:04 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
