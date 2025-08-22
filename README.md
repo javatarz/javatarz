@@ -17,14 +17,14 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#25](https://github.com/javatarz/roacm/pull/25) in [javatarz/roacm](https://github.com/javatarz/roacm)
-2. 🎉 Merged PR [#26](https://github.com/javatarz/roacm/pull/26) in [javatarz/roacm](https://github.com/javatarz/roacm)
-3. 🎉 Merged PR [#27](https://github.com/javatarz/roacm/pull/27) in [javatarz/roacm](https://github.com/javatarz/roacm)
-4. ✔️ Closed issue [#3](https://github.com/javatarz/mac-setup/issues/3) in [javatarz/mac-setup](https://github.com/javatarz/mac-setup)
-5. 🔱 Forked [javatarz/alfred-airpods-connector](https://github.com/javatarz/alfred-airpods-connector) from [April-June-August/alfred-airpods-connector](https://github.com/April-June-August/alfred-airpods-connector)
+1. ✔️ Closed issue [#17](https://github.com/javatarz/mac-setup/issues/17) in [javatarz/mac-setup](https://github.com/javatarz/mac-setup)
+2. 🎉 Merged PR [#25](https://github.com/javatarz/roacm/pull/25) in [javatarz/roacm](https://github.com/javatarz/roacm)
+3. 🎉 Merged PR [#26](https://github.com/javatarz/roacm/pull/26) in [javatarz/roacm](https://github.com/javatarz/roacm)
+4. 🎉 Merged PR [#27](https://github.com/javatarz/roacm/pull/27) in [javatarz/roacm](https://github.com/javatarz/roacm)
+5. ✔️ Closed issue [#3](https://github.com/javatarz/mac-setup/issues/3) in [javatarz/mac-setup](https://github.com/javatarz/mac-setup)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 22nd, 2025, 10:33:16 GMT+0530
+Last Updated: Friday, August 22nd, 2025, 11:34:27 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
