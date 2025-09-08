@@ -17,14 +17,14 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#17](https://github.com/javatarz/mac-setup/issues/17) in [javatarz/mac-setup](https://github.com/javatarz/mac-setup)
-2. 🎉 Merged PR [#25](https://github.com/javatarz/roacm/pull/25) in [javatarz/roacm](https://github.com/javatarz/roacm)
-3. 🎉 Merged PR [#26](https://github.com/javatarz/roacm/pull/26) in [javatarz/roacm](https://github.com/javatarz/roacm)
-4. 🎉 Merged PR [#27](https://github.com/javatarz/roacm/pull/27) in [javatarz/roacm](https://github.com/javatarz/roacm)
-5. ✔️ Closed issue [#3](https://github.com/javatarz/mac-setup/issues/3) in [javatarz/mac-setup](https://github.com/javatarz/mac-setup)
+1. ✔️ Closed issue [#23](https://github.com/javatarz/mac-setup/issues/23) in [javatarz/mac-setup](https://github.com/javatarz/mac-setup)
+2. ❗️ Opened issue [#23](https://github.com/javatarz/mac-setup/issues/23) in [javatarz/mac-setup](https://github.com/javatarz/mac-setup)
+3. ✔️ Closed issue [#11](https://github.com/javatarz/mac-setup/issues/11) in [javatarz/mac-setup](https://github.com/javatarz/mac-setup)
+4. 💬 Commented on [#11](https://github.com/javatarz/mac-setup/issues/11#issuecomment-3222476339) in [javatarz/mac-setup](https://github.com/javatarz/mac-setup)
+5. ✔️ Closed issue [#18](https://github.com/javatarz/mac-setup/issues/18) in [javatarz/mac-setup](https://github.com/javatarz/mac-setup)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 8th, 2025, 23:34:11 GMT+0530
+Last Updated: Tuesday, September 9th, 2025, 00:32:55 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
