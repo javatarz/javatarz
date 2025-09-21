@@ -18,13 +18,9 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [reisxd/TizenBrew](https://github.com/reisxd/TizenBrew)
-2. ✔️ Closed issue [#17](https://github.com/javatarz/mac-setup/issues/17) in [javatarz/mac-setup](https://github.com/javatarz/mac-setup)
-3. 🎉 Merged PR [#25](https://github.com/javatarz/roacm/pull/25) in [javatarz/roacm](https://github.com/javatarz/roacm)
-4. 🎉 Merged PR [#26](https://github.com/javatarz/roacm/pull/26) in [javatarz/roacm](https://github.com/javatarz/roacm)
-5. 🎉 Merged PR [#27](https://github.com/javatarz/roacm/pull/27) in [javatarz/roacm](https://github.com/javatarz/roacm)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 21st, 2025, 13:33:09 GMT+0530
+Last Updated: Sunday, September 21st, 2025, 14:32:59 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
