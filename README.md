@@ -7,11 +7,11 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 📕 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [intelligent Engineering: Principles for Building With AI](https://medium.com/inspiredbrilliance/intelligent-engineering-principles-for-building-with-ai-28e935c66f18?source=rss-2c5b1a49efe4------2)
 - [Level Up Code Quality with an AI Assistant](https://medium.com/inspiredbrilliance/level-up-code-quality-with-an-ai-assistant-a7b1fa3f9886?source=rss-2c5b1a49efe4------2)
 - [How to choose your coding assistants](https://medium.com/inspiredbrilliance/how-to-choose-your-coding-assistants-ddf693804cb6?source=rss-2c5b1a49efe4------2)
 - [Patterns for AI assisted software development](https://medium.com/inspiredbrilliance/patterns-for-ai-assisted-software-development-c27ad43d6889?source=rss-2c5b1a49efe4------2)
 - [AI for Software Engineering, not &lpar;only&rpar; Code Generation](https://medium.com/inspiredbrilliance/ai-for-software-engineering-not-only-code-generation-57d39e1dadd3?source=rss-2c5b1a49efe4------2)
-- [What makes Developer Experience World-Class?](https://medium.com/inspiredbrilliance/what-makes-developer-experience-world-class-5ca84b153a47?source=rss-2c5b1a49efe4------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Recent GitHub Activity
