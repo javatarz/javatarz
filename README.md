@@ -17,14 +17,14 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#63](https://github.com/javatarz/roacm/issues/63) in [javatarz/roacm](https://github.com/javatarz/roacm)
-2. ✔️ Closed issue [#64](https://github.com/javatarz/roacm/issues/64) in [javatarz/roacm](https://github.com/javatarz/roacm)
-3. ✔️ Closed issue [#47](https://github.com/javatarz/roacm/issues/47) in [javatarz/roacm](https://github.com/javatarz/roacm)
-4. ✔️ Closed issue [#66](https://github.com/javatarz/roacm/issues/66) in [javatarz/roacm](https://github.com/javatarz/roacm)
-5. ✔️ Closed issue [#69](https://github.com/javatarz/roacm/issues/69) in [javatarz/roacm](https://github.com/javatarz/roacm)
+1. ❗️ Opened issue [#25](https://github.com/javatarz/credit-card-lending/issues/25) in [javatarz/credit-card-lending](https://github.com/javatarz/credit-card-lending)
+2. 📖 Created new wiki page [Architecture](https://github.com/javatarz/credit-card-lending/wiki/Architecture) in [javatarz/credit-card-lending](https://github.com/javatarz/credit-card-lending)
+3. 📖 Created new wiki page [Features](https://github.com/javatarz/credit-card-lending/wiki/Features) in [javatarz/credit-card-lending](https://github.com/javatarz/credit-card-lending)
+4. 📖 Created new wiki page [MVP](https://github.com/javatarz/credit-card-lending/wiki/MVP) in [javatarz/credit-card-lending](https://github.com/javatarz/credit-card-lending)
+5. 📖 Created new wiki page [Home](https://github.com/javatarz/credit-card-lending/wiki/Home) in [javatarz/credit-card-lending](https://github.com/javatarz/credit-card-lending)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 1st, 2025, 14:35:46 GMT+0530
+Last Updated: Monday, December 1st, 2025, 15:33:46 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
