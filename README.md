@@ -17,14 +17,14 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#31](https://github.com/javatarz/credit-card-lending/issues/31) in [javatarz/credit-card-lending](https://github.com/javatarz/credit-card-lending)
-2. 💪 Opened PR [#36](undefined) in [javatarz/credit-card-lending](https://github.com/javatarz/credit-card-lending)
-3. 💪 Opened PR [#35](undefined) in [javatarz/credit-card-lending](https://github.com/javatarz/credit-card-lending)
-4. 📖 Created new wiki page [intelligent-Engineering](https://github.com/javatarz/credit-card-lending/wiki/intelligent-Engineering) in [javatarz/credit-card-lending](https://github.com/javatarz/credit-card-lending)
-5. ✔️ Closed issue [#83](https://github.com/javatarz/roacm/issues/83) in [javatarz/roacm](https://github.com/javatarz/roacm)
+1. ✔️ Closed issue [#27](https://github.com/javatarz/credit-card-lending/issues/27) in [javatarz/credit-card-lending](https://github.com/javatarz/credit-card-lending)
+2. 💬 Commented on [#27](https://github.com/javatarz/credit-card-lending/issues/27#issuecomment-3619428804) in [javatarz/credit-card-lending](https://github.com/javatarz/credit-card-lending)
+3. ✔️ Closed issue [#33](https://github.com/javatarz/credit-card-lending/issues/33) in [javatarz/credit-card-lending](https://github.com/javatarz/credit-card-lending)
+4. ✔️ Closed issue [#32](https://github.com/javatarz/credit-card-lending/issues/32) in [javatarz/credit-card-lending](https://github.com/javatarz/credit-card-lending)
+5. ✔️ Closed issue [#31](https://github.com/javatarz/credit-card-lending/issues/31) in [javatarz/credit-card-lending](https://github.com/javatarz/credit-card-lending)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 6th, 2025, 08:51:21 GMT+0530
+Last Updated: Saturday, December 6th, 2025, 09:33:14 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
