@@ -17,14 +17,14 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#45](https://github.com/javatarz/credit-card-lending/issues/45#issuecomment-3687427986) in [javatarz/credit-card-lending](https://github.com/javatarz/credit-card-lending)
-2. ✔️ Closed issue [#45](https://github.com/javatarz/credit-card-lending/issues/45) in [javatarz/credit-card-lending](https://github.com/javatarz/credit-card-lending)
-3. 💬 Commented on [#45](https://github.com/javatarz/credit-card-lending/issues/45#issuecomment-3687311298) in [javatarz/credit-card-lending](https://github.com/javatarz/credit-card-lending)
-4. 💬 Commented on [#45](https://github.com/javatarz/credit-card-lending/issues/45#issuecomment-3687280324) in [javatarz/credit-card-lending](https://github.com/javatarz/credit-card-lending)
-5. ✔️ Closed issue [#88](https://github.com/javatarz/roacm/issues/88) in [javatarz/roacm](https://github.com/javatarz/roacm)
+1. ✔️ Closed issue [#96](https://github.com/javatarz/roacm/issues/96) in [javatarz/roacm](https://github.com/javatarz/roacm)
+2. 💬 Commented on [#96](https://github.com/javatarz/roacm/issues/96#issuecomment-3687834948) in [javatarz/roacm](https://github.com/javatarz/roacm)
+3. ❗️ Opened issue [#49](https://github.com/javatarz/credit-card-lending/issues/49) in [javatarz/credit-card-lending](https://github.com/javatarz/credit-card-lending)
+4. ❗️ Opened issue [#48](https://github.com/javatarz/credit-card-lending/issues/48) in [javatarz/credit-card-lending](https://github.com/javatarz/credit-card-lending)
+5. ❗️ Opened issue [#47](https://github.com/javatarz/credit-card-lending/issues/47) in [javatarz/credit-card-lending](https://github.com/javatarz/credit-card-lending)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 24th, 2025, 00:33:55 GMT+0530
+Last Updated: Wednesday, December 24th, 2025, 01:33:19 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
