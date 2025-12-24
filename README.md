@@ -17,14 +17,14 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#90](https://github.com/javatarz/roacm/issues/90#issuecomment-3688942355) in [javatarz/roacm](https://github.com/javatarz/roacm)
-2. ✔️ Closed issue [#24](https://github.com/javatarz/credit-card-lending/issues/24) in [javatarz/credit-card-lending](https://github.com/javatarz/credit-card-lending)
-3. 💬 Commented on [#24](https://github.com/javatarz/credit-card-lending/issues/24#issuecomment-3688615629) in [javatarz/credit-card-lending](https://github.com/javatarz/credit-card-lending)
-4. ✔️ Closed issue [#23](https://github.com/javatarz/credit-card-lending/issues/23) in [javatarz/credit-card-lending](https://github.com/javatarz/credit-card-lending)
-5. 💬 Commented on [#23](https://github.com/javatarz/credit-card-lending/issues/23#issuecomment-3688581684) in [javatarz/credit-card-lending](https://github.com/javatarz/credit-card-lending)
+1. 💬 Commented on [#101](https://github.com/javatarz/roacm/issues/101#issuecomment-3689171535) in [javatarz/roacm](https://github.com/javatarz/roacm)
+2. 💬 Commented on [#101](https://github.com/javatarz/roacm/issues/101#issuecomment-3689161468) in [javatarz/roacm](https://github.com/javatarz/roacm)
+3. 💬 Commented on [#101](https://github.com/javatarz/roacm/issues/101#issuecomment-3689149516) in [javatarz/roacm](https://github.com/javatarz/roacm)
+4. 💬 Commented on [#101](https://github.com/javatarz/roacm/issues/101#issuecomment-3689146432) in [javatarz/roacm](https://github.com/javatarz/roacm)
+5. 💬 Commented on [#97](https://github.com/javatarz/roacm/issues/97#issuecomment-3689128654) in [javatarz/roacm](https://github.com/javatarz/roacm)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 24th, 2025, 13:34:47 GMT+0530
+Last Updated: Wednesday, December 24th, 2025, 14:35:38 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
