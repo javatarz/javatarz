@@ -17,14 +17,14 @@ I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling
 ## 🎯 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#134](https://github.com/javatarz/roacm/issues/134) in [javatarz/roacm](https://github.com/javatarz/roacm)
-2. ❗️ Opened issue [#133](https://github.com/javatarz/roacm/issues/133) in [javatarz/roacm](https://github.com/javatarz/roacm)
-3. ❗️ Opened issue [#132](https://github.com/javatarz/roacm/issues/132) in [javatarz/roacm](https://github.com/javatarz/roacm)
-4. ❗️ Opened issue [#131](https://github.com/javatarz/roacm/issues/131) in [javatarz/roacm](https://github.com/javatarz/roacm)
-5. ❗️ Opened issue [#130](https://github.com/javatarz/roacm/issues/130) in [javatarz/roacm](https://github.com/javatarz/roacm)
+1. 💬 Commented on [#93](https://github.com/javatarz/roacm/issues/93#issuecomment-3690957082) in [javatarz/roacm](https://github.com/javatarz/roacm)
+2. ✔️ Closed issue [#93](https://github.com/javatarz/roacm/issues/93) in [javatarz/roacm](https://github.com/javatarz/roacm)
+3. ✔️ Closed issue [#77](https://github.com/javatarz/roacm/issues/77) in [javatarz/roacm](https://github.com/javatarz/roacm)
+4. 💬 Commented on [#77](https://github.com/javatarz/roacm/issues/77#issuecomment-3690945230) in [javatarz/roacm](https://github.com/javatarz/roacm)
+5. ✔️ Closed issue [#92](https://github.com/javatarz/roacm/issues/92) in [javatarz/roacm](https://github.com/javatarz/roacm)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 25th, 2025, 10:35:22 GMT+0530
+Last Updated: Thursday, December 25th, 2025, 11:34:55 GMT+0530
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 My GitHub Stats
