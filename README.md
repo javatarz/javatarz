@@ -22,10 +22,6 @@ I speak at conferences about distributed systems, event-driven design, large-sca
 
 📝 [blog.karun.me](https://blog.karun.me) — experiments, breakdowns, and notes from the edges of my work.
 
-Recent posts:
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karunjaphet/)

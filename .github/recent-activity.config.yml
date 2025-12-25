@@ -1,6 +1,0 @@
-settings:
-  date:
-    timezone: "Asia/Kolkata"
-    format: "dddd, mmmm dS, yyyy, HH:MM:ss Z"
-  disabled_events:
-    - "push"
