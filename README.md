@@ -1,10 +1,10 @@
 # Karun Japhet
 
-Engineering Leader and practitioner at [@sahajsoft](https://github.com/sahajsoft). I design and develop large-scale systems, and work on AI-assisted software development.
+Engineering Leader and practitioner at [@sahajsoft](https://github.com/sahajsoft). I design and develop large-scale systems and work on AI-assisted software development.
 
 ## What I'm focused on
 
-**AI-assisted engineering** — not just code generation, but the full lifecycle:
+**AI-assisted engineering** — beyond code generation, the full lifecycle:
 - Discovering and clarifying requirements with AI
 - Reasoning through system design with LLMs  
 - Debugging with structured prompting
