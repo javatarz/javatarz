@@ -1,93 +1,33 @@
-# Hi there 👋
+# Karun Japhet
 
-I am [Karun Japhet (javatarz)](https://karun.me). I speak publicly about scaling software, testing, CD & ML. ❤️&nbsp; trying to spread good vibes on the interwebs.
+Engineer and consultant at [@sahajsoft](https://github.com/sahajsoft). I work on large-scale systems, architecture, and AI-assisted software development.
 
----
+## What I'm focused on
 
-## 📕 Recent Blog Posts
+**AI-assisted engineering** — not just code generation, but the full lifecycle:
+- Clarifying requirements with AI
+- Using LLMs as architectural thinking partners  
+- Debugging with structured prompting
+- Improving delivery workflows with better tooling
 
+I work mostly with Claude Code and GitHub Copilot, using prompt engineering, context engineering, and chain-of-thought scaffolding.
+
+## Speaking
+
+I speak at conferences about distributed systems, event-driven design, large-scale data engineering, ML for fraud detection, and AI's role in the software lifecycle.
+
+📺 [Watch my talks](https://www.youtube.com/playlist?list=PLY67XcOB0u1SCXn5Z8ZcMnDJHWV4DuPvV)
+
+## Writing
+
+📝 [blog.karun.me](https://blog.karun.me) — experiments, breakdowns, and notes from the edges of my work.
+
+Recent posts:
 <!-- BLOG-POST-LIST:START -->
-- [intelligent Engineering: Principles for Building With AI](https://medium.com/inspiredbrilliance/intelligent-engineering-principles-for-building-with-ai-28e935c66f18?source=rss-2c5b1a49efe4------2)
-- [Level Up Code Quality with an AI Assistant](https://medium.com/inspiredbrilliance/level-up-code-quality-with-an-ai-assistant-a7b1fa3f9886?source=rss-2c5b1a49efe4------2)
-- [How to choose your coding assistants](https://medium.com/inspiredbrilliance/how-to-choose-your-coding-assistants-ddf693804cb6?source=rss-2c5b1a49efe4------2)
-- [Patterns for AI assisted software development](https://medium.com/inspiredbrilliance/patterns-for-ai-assisted-software-development-c27ad43d6889?source=rss-2c5b1a49efe4------2)
-- [AI for Software Engineering, not &lpar;only&rpar; Code Generation](https://medium.com/inspiredbrilliance/ai-for-software-engineering-not-only-code-generation-57d39e1dadd3?source=rss-2c5b1a49efe4------2)
 <!-- BLOG-POST-LIST:END -->
 
-## 🎯 Recent GitHub Activity
+## Connect
 
-<!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#50](https://github.com/javatarz/credit-card-lending/issues/50) in [javatarz/credit-card-lending](https://github.com/javatarz/credit-card-lending)
-2. 💬 Commented on [#93](https://github.com/javatarz/roacm/issues/93#issuecomment-3690957082) in [javatarz/roacm](https://github.com/javatarz/roacm)
-3. ✔️ Closed issue [#93](https://github.com/javatarz/roacm/issues/93) in [javatarz/roacm](https://github.com/javatarz/roacm)
-4. ✔️ Closed issue [#77](https://github.com/javatarz/roacm/issues/77) in [javatarz/roacm](https://github.com/javatarz/roacm)
-5. 💬 Commented on [#77](https://github.com/javatarz/roacm/issues/77#issuecomment-3690945230) in [javatarz/roacm](https://github.com/javatarz/roacm)
-<!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 25th, 2025, 12:34:39 GMT+0530
-<!--RECENT_ACTIVITY:last_update_end-->
-
-## 🏆 My GitHub Stats
-
-![Karun's GitHub stats](https://github-readme-stats.vercel.app/api?username=javatarz&theme=dracula&show_icons=true&count_private=true)
-
-## 👨 👩. Social
-
-![GitHub followers](https://img.shields.io/github/followers/javatarz?color=%23181717&logo=GitHub&style=flat-square)
-![GitHub User's stars](https://img.shields.io/github/stars/javatarz?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&color=%23181717&logo=GitHub&style=flat-square)
-[![Twitter Follow](https://img.shields.io/twitter/follow/javatarz?color=%231DA1F2&logo=Twitter&style=flat-square)](https://twitter.com/intent/user?screen_name=javatarz)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCnLs0Sn0h-UqfIMkkGMuB1w?logo=YouTube&style=flat-square)](https://www.youtube.com/channel/UCnLs0Sn0h-UqfIMkkGMuB1w?sub_confirmation=1)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCnLs0Sn0h-UqfIMkkGMuB1w?logo=YouTube&style=flat-square)](https://www.youtube.com/channel/UCnLs0Sn0h-UqfIMkkGMuB1w)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karunjaphet/)
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/javatarz)
-[![StackExchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=flat-square&logo=StackExchange&logoColor=white)](https://stackexchange.com/users/233953/javatarz)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@javatarz)
-
-
-## 🚀 Frequently used tech</summary>
-
-_In no particular order.._
-
-<details>
-<summary>Click to expand..</summary>
-
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)
-![Gradle](https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle)
-![JUnit5](https://img.shields.io/badge/Junit5-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=darkgreen&color=#3776AB)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Lineage OS](https://img.shields.io/badge/lineageos-167C80?style=flat-square&logo=lineageos&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple)
-![MacOS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-
-![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx)
-![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=flat-square&logo=Jekyll)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache%20Airflow)
-</details>
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/javatarz)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://blog.karun.me)
