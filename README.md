@@ -1,16 +1,16 @@
 # Karun Japhet
 
-Engineering Leader and consultant at [@sahajsoft](https://github.com/sahajsoft). I work on large-scale systems, architecture, and AI-assisted software development.
+Engineering Leader and practitioner at [@sahajsoft](https://github.com/sahajsoft). I design and develop large-scale systems, and work on AI-assisted software development.
 
 ## What I'm focused on
 
 **AI-assisted engineering** — not just code generation, but the full lifecycle:
-- Clarifying requirements with AI
-- Using LLMs as architectural thinking partners  
+- Discovering and clarifying requirements with AI
+- Reasoning through system design with LLMs  
 - Debugging with structured prompting
 - Improving delivery workflows with better tooling
 
-I work mostly with Claude Code and GitHub Copilot, using prompt engineering, context engineering, and chain-of-thought scaffolding.
+I use Claude Code and GitHub Copilot, with prompt engineering, context engineering, and chain-of-thought scaffolding.
 
 ## Speaking
 
@@ -20,7 +20,7 @@ I speak at conferences about distributed systems, event-driven design, large-sca
 
 ## Writing
 
-📝 [blog.karun.me](https://blog.karun.me) — experiments, breakdowns, and notes from the edges of my work.
+📝 [blog.karun.me](https://blog.karun.me) — experiments, breakdowns, and notes from what I'm learning.
 
 ## Connect
 
