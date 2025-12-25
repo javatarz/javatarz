@@ -1,6 +1,6 @@
 # Karun Japhet
 
-Engineer and consultant at [@sahajsoft](https://github.com/sahajsoft). I work on large-scale systems, architecture, and AI-assisted software development.
+Engineering Leader and consultant at [@sahajsoft](https://github.com/sahajsoft). I work on large-scale systems, architecture, and AI-assisted software development.
 
 ## What I'm focused on
 
@@ -25,5 +25,5 @@ I speak at conferences about distributed systems, event-driven design, large-sca
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karunjaphet/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/javatarz)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://blog.karun.me)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/javatarz)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=jekyll&logoColor=white)](https://blog.karun.me)
