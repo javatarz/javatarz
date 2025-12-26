@@ -20,10 +20,10 @@ I speak at conferences about distributed systems, event-driven design, large-sca
 
 ## Writing
 
-📝 [blog.karun.me](https://blog.karun.me) — experiments, breakdowns, and notes from what I'm learning.
+📝 [karun.me](https://karun.me) — experiments, breakdowns, and notes from what I'm learning.
 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karunjaphet/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/javatarz)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=jekyll&logoColor=white)](https://blog.karun.me)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=jekyll&logoColor=white)](https://karun.me)
