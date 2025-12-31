@@ -21,6 +21,13 @@ I speak at conferences about distributed systems, event-driven design, large-sca
 ### Recent Videos
 
 <!--START_SECTION:youtube-->
+
+- [What Happens Before and After the Code? AI Has a Role There Too!](https://www.youtube.com/watch?v=HXq-Fr6XnV8)
+- [Responsible AI | DevFest Pune 2024 Panel Discussion](https://www.youtube.com/watch?v=W42qxQ7MvRs)
+- [Pune's 50th DevDay | From Concept to Code: Building a Q&A Bot Live with LLM | Karun & Ajinkya](https://www.youtube.com/watch?v=IjizYxxNzvc)
+- [Managing Data Pipelines at Scale](https://www.youtube.com/watch?v=tt7Pj_x6fPg)
+- [DevDay July 19 - Karun Japhet on (Machine) Learning to detect fraudsters](https://www.youtube.com/watch?v=x43rjpdWz18)
+
 <!--END_SECTION:youtube-->
 
 ## Writing
