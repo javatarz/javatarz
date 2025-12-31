@@ -23,6 +23,7 @@ jobs:
           max_post_count: 5
           template: '- [$title]($url) - $date$newline'
           date_format: 'mmm dd, yyyy'
+          tag_post_pre_newline: true
           committer_username: 'github-actions[bot]'
           committer_email: 'github-actions[bot]@users.noreply.github.com'
           commit_message: 'Update blog posts from karun.me'
