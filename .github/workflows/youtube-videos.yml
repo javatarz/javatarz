@@ -13,51 +13,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - uses: JasonEtco/rss-to-readme@v1
         with:
-          node-version: '20'
-
-      - name: Fetch and update YouTube videos
-        env:
-          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-          PLAYLIST_ID: PLY67XcOB0u1SCXn5Z8ZcMnDJHWV4DuPvV
-        run: |
-          # Fetch playlist items from YouTube API
-          response=$(curl -s "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=5&playlistId=${PLAYLIST_ID}&key=${YOUTUBE_API_KEY}")
-
-          # Parse JSON and build markdown list
-          videos=$(echo "$response" | node -e "
-            const data = JSON.parse(require('fs').readFileSync(0, 'utf-8'));
-            if (data.items) {
-              const lines = data.items.map(item => {
-                const title = item.snippet.title;
-                const videoId = item.snippet.resourceId.videoId;
-                const url = \`https://www.youtube.com/watch?v=\${videoId}\`;
-                return \`- [\${title}](\${url})\`;
-              });
-              console.log(lines.join('\\n'));
-            }
-          ")
-
-          # Update README.md
-          awk -v videos="$videos" '
-            /<!-- YOUTUBE:START -->/ {print; print ""; print videos; print ""; f=1; next}
-            /<!-- YOUTUBE:END -->/ {f=0}
-            !f
-          ' README.md > README.tmp && mv README.tmp README.md
-
-      - name: Commit changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          if ! git diff --cached --quiet; then
-            git commit -m "Update YouTube videos"
-            git push
-          else
-            echo "No changes to commit"
-          fi
+          feed-url: 'https://www.youtube.com/feeds/videos.xml?playlist_id=PLY67XcOB0u1SCXn5Z8ZcMnDJHWV4DuPvV'
+          readme-section: 'youtube'
+          max: 5
+          template: '- [{{ title }}]({{ link }})'

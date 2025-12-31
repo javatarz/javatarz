@@ -20,8 +20,8 @@ I speak at conferences about distributed systems, event-driven design, large-sca
 
 ### Recent Videos
 
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<!--START_SECTION:youtube-->
+<!--END_SECTION:youtube-->
 
 ## Writing
 
