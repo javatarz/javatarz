@@ -18,6 +18,11 @@ I speak at conferences about distributed systems, event-driven design, large-sca
 
 📺 [Watch my talks](https://www.youtube.com/playlist?list=PLY67XcOB0u1SCXn5Z8ZcMnDJHWV4DuPvV)
 
+### Recent Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 ## Writing
 
 📝 [karun.me](https://karun.me) — experiments, breakdowns, and notes from what I'm learning.
