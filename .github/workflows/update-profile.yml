@@ -1,0 +1,48 @@
+name: Update Profile
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-profile:
+    name: Update README with latest content
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      # Step 1: Update blog posts
+      - name: Update blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: 'https://karun.me/feed.xml'
+          max_post_count: 5
+          template: '- [$title]($url) - $date$newline'
+          date_format: 'mmm dd, yyyy'
+          tag_post_pre_newline: true
+          committer_username: 'github-actions[bot]'
+          committer_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: 'Update blog posts from karun.me'
+          custom_tags: 'BLOG-POST-LIST'
+          readme_path: './README.md'
+
+      # Step 2: Update YouTube videos (runs after blog posts)
+      - name: Fetch latest YouTube videos
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          curl -s "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLY67XcOB0u1SCXn5Z8ZcMnDJHWV4DuPvV&key=${YOUTUBE_API_KEY}" \
+          | jq -r '.items[] | "- [\(.snippet.title)](https://www.youtube.com/watch?v=\(.snippet.resourceId.videoId))"' \
+          | awk '/<!--START_SECTION:youtube-->/{p=1; print; print ""; system("cat"); print ""; next} /<!--END_SECTION:youtube-->/{p=0} !p' README.md > README.tmp && mv README.tmp README.md
+
+      - name: Commit YouTube updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Update YouTube videos"
+          git push
