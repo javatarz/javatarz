@@ -37,11 +37,11 @@ I speak at conferences about distributed systems, event-driven design, large-sca
 ### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [intelligent Engineering: In Practice](https://karun.me/blog/2026/01/02/intelligent-engineering-in-practice/) - Jan 01, 2026
 - [intelligent Engineering: A Skill Map for Learning AI-Assisted Development](https://karun.me/blog/2026/01/01/intelligent-engineering-a-skill-map-for-learning-ai-assisted-development/) - Dec 31, 2025
 - [Context Engineering for AI-Assisted Development](https://karun.me/blog/2025/12/31/context-engineering-for-ai-assisted-development/) - Dec 30, 2025
 - [intelligent Engineering: Principles for Building With AI](https://karun.me/blog/2025/11/06/intelligent-engineering-building-skills-and-shaping-principles/) - Nov 05, 2025
 - [Level Up Code Quality with an AI Assistant](https://karun.me/blog/2025/07/29/level-up-code-quality-with-an-ai-assistant/) - Jul 28, 2025
-- [How to choose your coding assistants](https://karun.me/blog/2025/07/17/how-to-choose-your-coding-assistants/) - Jul 16, 2025
 
 <!-- BLOG-POST-LIST:END -->
 
