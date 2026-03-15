@@ -37,11 +37,11 @@ I speak at conferences about distributed systems, event-driven design, large-sca
 ### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agentic Patterns Developers Should Steal](https://karun.me/blog/2026/03/19/agentic-patterns-developers-should-steal/) - Mar 18, 2026
+- [Observability for AI-Assisted Development](https://karun.me/blog/2026/03/12/observability-for-ai-assisted-development/) - Mar 11, 2026
+- [The Unix Philosophy for Agentic Coding](https://karun.me/blog/2026/03/05/the-unix-philosophy-for-agentic-coding/) - Mar 04, 2026
 - [intelligent Engineering: In Practice](https://karun.me/blog/2026/01/02/intelligent-engineering-in-practice/) - Jan 01, 2026
 - [intelligent Engineering: A Skill Map for Learning AI-Assisted Development](https://karun.me/blog/2026/01/01/intelligent-engineering-a-skill-map-for-learning-ai-assisted-development/) - Dec 31, 2025
-- [Context Engineering for AI-Assisted Development](https://karun.me/blog/2025/12/31/context-engineering-for-ai-assisted-development/) - Dec 30, 2025
-- [intelligent Engineering: Principles for Building With AI](https://karun.me/blog/2025/11/06/intelligent-engineering-building-skills-and-shaping-principles/) - Nov 05, 2025
-- [Level Up Code Quality with an AI Assistant](https://karun.me/blog/2025/07/29/level-up-code-quality-with-an-ai-assistant/) - Jul 28, 2025
 
 <!-- BLOG-POST-LIST:END -->
 
