@@ -37,11 +37,11 @@ I speak at conferences about distributed systems, event-driven design, large-sca
 ### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Comfort Plateau AI Built For You](https://karun.me/blog/2026/05/21/the-comfort-plateau-ai-built-for-you/) - May 20, 2026
 - [The Judgement Pyramid: Reasoning vs Measurement](https://karun.me/blog/2026/05/20/the-judgement-pyramid/) - May 19, 2026
 - [Structuring Claude Code for Multi-Repo Workspaces](https://karun.me/blog/2026/03/26/structuring-claude-code-for-multi-repo-workspaces/) - Mar 25, 2026
 - [Agentic Patterns Developers Should Steal](https://karun.me/blog/2026/03/19/agentic-patterns-developers-should-steal/) - Mar 18, 2026
 - [Observability for AI-Assisted Development](https://karun.me/blog/2026/03/12/observability-for-ai-assisted-development/) - Mar 11, 2026
-- [The Unix Philosophy for Agentic Coding](https://karun.me/blog/2026/03/05/the-unix-philosophy-for-agentic-coding/) - Mar 04, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
