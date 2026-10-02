@@ -22,11 +22,11 @@ I speak at conferences about distributed systems, event-driven design, large-sca
 
 <!--START_SECTION:youtube-->
 
+- [Private video](https://www.youtube.com/watch?v=q-JuH50Jz-M)
 - [Engineer the Environment, Not Just the Prompt](https://www.youtube.com/watch?v=YN1ILUTlr4k)
 - [What Happens Before and After the Code? AI Has a Role There Too!](https://www.youtube.com/watch?v=HXq-Fr6XnV8)
 - [Responsible AI | DevFest Pune 2024 Panel Discussion](https://www.youtube.com/watch?v=W42qxQ7MvRs)
 - [Pune's 50th DevDay | From Concept to Code: Building a Q&A Bot Live with LLM | Karun & Ajinkya](https://www.youtube.com/watch?v=IjizYxxNzvc)
-- [Managing Data Pipelines at Scale](https://www.youtube.com/watch?v=tt7Pj_x6fPg)
 
 <!--END_SECTION:youtube-->
 
