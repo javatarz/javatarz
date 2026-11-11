@@ -37,11 +37,11 @@ I speak at conferences about distributed systems, event-driven design, large-sca
 ### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimising Cost for Agent Teams](https://karun.me/blog/2026/11/10/optimising-cost-for-agent-teams/) - Nov 09, 2026
+- [Optimising Feedback Time for Agent Teams](https://karun.me/blog/2026/11/09/optimising-feedback-time-for-agent-teams/) - Nov 08, 2026
+- [AI Maturity Is a Lagging Indicator of Engineering Maturity](https://karun.me/blog/2026/11/08/ai-maturity-is-a-lagging-indicator-of-engineering-maturity/) - Nov 07, 2026
+- [Use the Agent to Build Your Own Understanding](https://karun.me/blog/2026/11/07/use-the-agent-to-build-your-own-understanding/) - Nov 06, 2026
 - [The Software Still Has to Be Right: Review Is No Longer Enough](https://karun.me/blog/2026/07/23/the-software-still-has-to-be-right/) - Jul 22, 2026
-- [The Comfort Plateau AI Built For You](https://karun.me/blog/2026/05/21/the-comfort-plateau-ai-built-for-you/) - May 20, 2026
-- [The Judgement Pyramid: Reasoning vs Measurement](https://karun.me/blog/2026/05/20/the-judgement-pyramid/) - May 19, 2026
-- [Structuring Claude Code for Multi-Repo Workspaces](https://karun.me/blog/2026/03/26/structuring-claude-code-for-multi-repo-workspaces/) - Mar 25, 2026
-- [Agentic Patterns Developers Should Steal](https://karun.me/blog/2026/03/19/agentic-patterns-developers-should-steal/) - Mar 18, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
